@@ -1,4 +1,5 @@
 
+<br/>
 
 ## Introduction 
  > [![Typing SVG](https://readme-typing-svg.demolab.com?font=Times+New+Roman&pause=5000&color=9D9F9D&random=false&width=450&height=30&lines=Department+of+Game+Engineering)](https://git.io/typing-svg)
@@ -27,7 +28,7 @@
 ![Unreal Engine](https://img.shields.io/badge/unrealengine-%23000000.svg?style=for-the-badge&logo=unrealengine&logoColor=white) 
 
 
-
+<br/>
 
 ## Platforms
 
@@ -40,7 +41,7 @@
 
 <br/>
 
-+ ## Published
+## Published
   - [GOBT: A Synergistic Approach to Game AI Using Goal-Oriented and Utility-Based Planning in Behavior Trees](https://www.jmis.org/archive/view_article?pid=jmis-10-4-321)
   - [Integrity Guarantee System in IoT Virtual Environment Platform: Through Hyperedfger Indy and MQTT](https://kism.or.kr/file/memoir/13_4_8.pdf)
  
