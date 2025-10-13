@@ -1,6 +1,6 @@
 
 
-+ ## Introduction 
+## Introduction 
  > [![Typing SVG](https://readme-typing-svg.demolab.com?font=Times+New+Roman&pause=5000&color=9D9F9D&random=false&width=450&height=30&lines=Department+of+Game+Engineering)](https://git.io/typing-svg)
 >
 > [![Typing SVG](https://readme-typing-svg.demolab.com?font=Times+New+Roman&pause=5000&color=9D9F9D&random=false&width=450&height=30&lines=Interest%3A+Game+AI%2C+Generative+AI%2C+VR%2C+BlockChain)](https://git.io/typing-svg)
@@ -10,7 +10,7 @@
 
 <br/>
 
-+ ## Skills
+## Skills
 
 
 ![C++](https://img.shields.io/badge/c++-%23000000.svg?style=for-the-badge&logo=c%2B%2B&logoColor=blue)
@@ -29,7 +29,7 @@
 
 
 
-+ ## Platforms
+## Platforms
 
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yoosunghong/)
 [![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)](https://hyss.notion.site/Yoosung-Library-df9b2433b8be4b72858ab7764632862f?pvs=4)
