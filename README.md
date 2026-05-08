@@ -2,10 +2,8 @@
 <br/>
 
 ## Introduction 
- > [![Typing SVG](https://readme-typing-svg.demolab.com?font=Times+New+Roman&pause=5000&color=C2C2C3FF&random=false&width=450&height=30&lines=Game+Engineering+Major)](https://git.io/typing-svg)
->
-> [![Typing SVG](https://readme-typing-svg.demolab.com?font=Times+New+Roman&pause=5000&color=C2C2C3FF&random=false&width=450&height=30&lines=Interest%3A+Game+AI%2C+VR)](https://git.io/typing-svg)
 
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Times+new+roman&weight=500&size=30&duration=3000&pause=1000&color=B1B3B3&background=63FF8000&multiline=true&width=435&lines=Game+AI+Engineer)](https://git.io/typing-svg)
 
 
 
