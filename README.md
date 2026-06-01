@@ -34,9 +34,12 @@ An engineer specializing in AI technology integration within game engines. Armed
 
 <br/>
 
-## Published
-  - [GOBT: A Synergistic Approach to Game AI Using Goal-Oriented and Utility-Based Planning in Behavior Trees](https://www.jmis.org/archive/view_article?pid=jmis-10-4-321)
-  - [Integrity Guarantee System in IoT Virtual Environment Platform: Through Hyperedfger Indy and MQTT](https://kism.or.kr/file/memoir/13_4_8.pdf)
+## Research
+  - "Learned Coordination Conventions in Cooperative MARL: Measuring the Translation Gap Between Theory-Informed Roles and Learned Routing", NExT-Game 2026: NEw frontiers in GAME-Theoretic learning - ICML 2026 Workshop, Poster Accepted.
+  - "One Policy, Infinite NPCs: Scalable Persona-Conditioned NPC Control via Shared Reinforcement Learning Policies", arXiv preprint.
+  - “GOBT: A Synergistic Approach to Game AI Using Goal-Oriented and Utility-Based Planning in Behavior Trees”, Journal of Multimedia Information System (JMIS), Vol. 4, Oct 2023.
+  - “IoT 가상환경 플랫폼에서의 무결성 보장 시스템: Hyperledger Indy와 MQTT를 통하여”, Korea Smart Media Society, Vol. 4, Apr 2024.
+  - “게임 에이전트 의사결정에서 대규모 언어모델(LLM)의 잠재력 평가”, 2024 Korea Multimedia Society Spring Conference.
  
 
 
