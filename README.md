@@ -2,9 +2,7 @@
 <br/>
 
 ## Introduction 
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Times+new+roman&weight=500&size=30&duration=3000&pause=1000&color=B1B3B3&background=63FF8000&multiline=true&width=435&lines=Game+AI+Engineer)](https://git.io/typing-svg)
-
+An engineer specializing in AI technology integration within game engines. Armed with extensive experience in developing new content and integrating infrastructure utilizing diverse AI technologies—including LLMs/RAG and Voice Interaction—I have consistently contributed to organizational AI innovation, spanning from problem definition to production environment deployment.
 
 
 <br/>
